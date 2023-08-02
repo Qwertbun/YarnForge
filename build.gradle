@@ -57,7 +57,7 @@ ext {
     }
     MAPPING_CHANNEL = 'snapshot'
     MAPPING_VERSION = '20201028-1.16.3'
-    MC_VERSION = '1.16.4'
+    MC_VERSION = '1.16.5'
     MCP_VERSION = '20201102.104115'
 }
 
